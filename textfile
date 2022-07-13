@@ -6,4 +6,7 @@ Now I am modifying this file after staging area.
 
 Now I am reading about git reset and revert commands.
 I want to know the difference between them.
-
+--------------------------------------------------------------------------------
+I am changing this by giving tags to this commit
+I want to find commits between two tags
+--------------------------------------------------------------------------------
